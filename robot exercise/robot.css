@@ -23,7 +23,7 @@ img {
 
 #mouth1 {
 	position: absolute;
-	top: 220px;
+	top: 240px;
 	left: 140px;
 }
 
@@ -33,4 +33,18 @@ img {
 	width: 190px;
 	z-index: 2;
 	left: 65px;
+}
+
+#ears1 {
+	position: absolute;
+	top: 80px;
+	width: 260px;
+	left: 22px;
+	z-index: 4;
+}
+
+#nose2 {
+	position: absolute;
+	top: 170px;
+	left: 140px;
 }
