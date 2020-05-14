@@ -1,0 +1,31 @@
+div {
+	background-color: lightgray;
+}
+
+nav {
+	background-color: lightgray;
+	padding-bottom: 30px;
+	padding-top:  10px;
+	margin-bottom: 20px;
+}
+
+header {
+	text-align: center;
+	font-size: 20pt;
+}
+
+li {
+	display: inline-block;
+	float: left;
+	list-style-type: none;
+	margin-left: 19px;
+	}
+
+#feature {
+	float: none;
+}	
+
+ul {
+	margin-left: 200px;
+	text-align: center;
+}
