@@ -1,0 +1,48 @@
+.container {
+	width: 800px;
+  	text-align: left;
+  	margin-left: auto;
+  	margin-right: auto;
+ 	position: relative;
+
+	
+	text-shadow: 1px 1px 1px #D6CFC7;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+.hero-image {
+	background-color: lightgray;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+#image {
+	padding-top: 30px;
+	}
+
+
+
+#header {
+	text-align: center;
+}
+
+p {
+	color: #707070;
+}
+
+li {
+	color: #707070;
+}
+
+h1 {
+	color: #DB0038;
+}
+
+h2 {
+	color: #3998A3;
+}
+
+h3 {
+	color: #474747;
+}
