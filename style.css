@@ -9,10 +9,11 @@
 	text-shadow: 1px 1px 1px #D6CFC7;
 	padding-right: 50px;
 	padding-left: 50px;
+	font-family: 'Happy Monkey', cursive;
 }
 
 .hero-image {
-	background-color: lightgray;
+	background-color: #f4f4f4;
 	text-align: center;
 	padding-bottom: 5px;
 }
@@ -33,6 +34,8 @@ p {
 
 li {
 	color: #707070;
+	padding-bottom: 5px;
+	padding-top: 5px;
 }
 
 h1 {
@@ -45,4 +48,13 @@ h2 {
 
 h3 {
 	color: #474747;
+}
+
+span {
+	color: #F4B400;
+	font-size: 25px;
+}
+
+footer {
+	text-align: center;
 }
